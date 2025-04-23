@@ -25,4 +25,9 @@ public class Calculadora
     {
         return unaCadena.Length == CadenaConValorUnico;
     }
+    
+    public int Restar(string unaCadena)
+    {
+        return -1;
+    }
 }
